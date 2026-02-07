@@ -17,7 +17,8 @@ import {
   Car,
   Heart,
   ShieldAlert,
-  PiggyBank
+  PiggyBank,
+  Check
 } from 'lucide-react';
 
 export const Icons = {
@@ -38,7 +39,8 @@ export const Icons = {
   Car,
   Heart,
   ShieldAlert,
-  PiggyBank
+  PiggyBank,
+  Check
 };
 
 // Simple shapes for the "Envelopes" illustration simulation
