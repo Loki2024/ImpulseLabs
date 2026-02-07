@@ -1,6 +1,6 @@
-# PostgreSQL Database Setup for BuyBye
+# PostgreSQL Database Setup for Impaulse
 
-I've created a complete PostgreSQL backend for your BuyBye application. Here's what was set up:
+I've created a complete PostgreSQL backend for your Impaulse application. Here's what was set up:
 
 ## 📁 Files Created
 
