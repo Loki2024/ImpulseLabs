@@ -1,6 +1,6 @@
-# BuyBye Database Setup Guide
+# Impaulse Database Setup Guide
 
-This guide will help you set up the PostgreSQL database and backend server for the BuyBye application.
+This guide will help you set up the PostgreSQL database and backend server for the Impaulse application.
 
 ## Prerequisites
 
